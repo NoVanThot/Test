@@ -1,12 +1,12 @@
 _G["HoHo Hub Auto Bounty V4"] = {
-    ["Avatar"] = "rbxassetid://72884674286921",
+    ["Avatar"] = "rbxassetid://8598068647",
     ["Farm Method"] = "Normal",
     ["Select Team"] = "Pirate",
     ["Discord Webhook"] = "",
     ["Bypass Teleport"] = false,
     ["Max Level Distance"] = 612,
-    ["Don't attack friends"] = true,
-    ["Don't attack player have cup"] = false,
+    ["Don't attack friends"] = false,
+    ["Don't attack player have cup"] = true,
     ["Distance Attack Y"] = 2,
     ["Chat After Kill"] = {
         ["Active"] = true,
