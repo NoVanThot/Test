@@ -19,7 +19,7 @@ _G["HoHo Hub Auto Bounty V4"] = {
     ["SafeZone"] = {
         Enabled = true,
         ["Health Left (%)"] = 10,
-        ["Wait Until Heal (%)"] = 80,
+        ["Wait Until Heal (%)"] = 50,
     },
     ["Time Control"] = {
         ["Max Time Target Player"] = 120,
@@ -43,7 +43,7 @@ _G["HoHo Hub Auto Bounty V4"] = {
             Z = {Enabled = true, Hold = 0.05, WaitNextSkill = 0.6},
             X = {Enabled = true, Hold = 0.05, WaitNextSkill = 0.6},
             C = {Enabled = true, Hold = 0.05, WaitNextSkill = 0.6},
-            V = {Enabled = true, Hold = 0.05, WaitNextSkill = 0.6},
+            V = {Enabled = false, Hold = 0.05, WaitNextSkill = 0.6},
             F = {Enabled = true, Hold = 0.05, WaitNextSkill = 0.6},
         },
     },
