@@ -51,5 +51,4 @@ _G["HoHo Hub Auto Bounty V4"] = {
 _G.SupperFixLag = true
 _G["Auto Gacha & Store Fruit"] = true
 
-_G.loadCustomId = "fac6dbd013c78163f8061ce11b2c1330"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
+repeat task.wait(1) pcall(function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Xero2409/XeroHub/refs/heads/main/bounty.lua"))() end) until getgenv().Execution
