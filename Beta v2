@@ -7,7 +7,7 @@ getgenv().Configs = {
     ["White Screen"] = false, -- false / true
     ["Chat"] = {
         ["Enable"] = false,
-        ["Message"] = {"", "", "", ""}, -- Input your message here
+        ["Message"] = {"gg", "hehe", "buonty free", "bruh"}, -- Input your message here
     },
     ["Run When Low Health"] = {
         ["Enable"] = false,
@@ -98,12 +98,12 @@ getgenv().Configs = {
             }
         },
         ["Gun"] = {
-            ["Enable"] = false,
+            ["Enable"] = true,
             ["Delay"] = 1.5,
             ["Order"] = 2,
             ["Skills"] = {
                 ["Z"] = {
-                    ["Enable"] = true,
+                    ["Enable"] = false,
                     ["HoldTime"] = 0,
                     ["Order"] = 2,
                     ["Time to next skill"] = 0
